@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indian Food Dish Search</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Search for Indian Food Dishes</h1>
+    <form method="POST">
+        <input type="text" name="dish_name" placeholder="Enter dish name" required>
+        <button type="submit">Search</button>
+    </form>
+
+    {% if dish_info %}
+        <h2>Dish Information</h2>
+        {% if dish_info == "Dish not found." %}
+            <p>{{ dish_info }}</p>
+        {% else %}
+            <p><strong>Name:</strong> {{ dish_info['name'] }}</p>
+            <p><strong>Ingredients:</strong> {{ dish_info['ingredients'] }}</p>
+            <p><strong>Diet:</strong> {{ dish_info['diet'] }}</p>
+            <p><strong>State:</strong> {{ dish_info['state'] }}</p>
+            <p><strong>Price Range:</strong> {{ dish_info['low_price'] }} - {{ dish_info['high_price'] }}</p>
+        {% endif %}
+    {% endif %}
+</body>
+<footer>
+    <H6>Copyright 2025 @Indian Cuisine Analysis</H6>
+</footer>
+</html>

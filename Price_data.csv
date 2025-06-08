@@ -1,0 +1,256 @@
+﻿name,ingredients,diet,state,low_price,high_price
+Adhirasam,"Rice flour, jaggery, ghee, vegetable oil, elachi",vegetarian,West Bengal,₹ 67,₹ 173
+Aloo gobi,"Cauliflower, potato, garam masala, turmeric, curry leaves",vegetarian,Punjab,₹ 55,₹ 302
+Aloo matar,"Potato, peas, chillies, ginger, garam masala, garlic",vegetarian,Punjab,₹ 85,₹ 320
+Aloo methi,"Potato, fenugreek leaves, chillies, salt, oil",vegetarian,Punjab,₹ 96,₹ 220
+Aloo shimla mirch,"Potato, shimla mirch, garam masala, amchur powder, salt",vegetarian,Punjab,₹ 75,₹ 207
+Aloo tikki,"Rice flour, potato, bread crumbs, garam masala, salt",vegetarian,Punjab,₹ 89,₹ 330
+Alu Pitika,"Potatoes, mustard oil, fish, green chillies",non vegetarian,Assam,₹ 73,₹ 177
+Amti,"Kala masala, arhar dal, curry leaves, mustard seeds, hot water",vegetarian,Maharashtra,₹ 56,₹ 216
+Anarsa,"Rice flour, jaggery, khus-khus seeds",vegetarian,Maharashtra,₹ 88,₹ 249
+Ariselu,"Rice flour, jaggery, ghee",vegetarian,Andhra Pradesh,₹ 98,₹ 184
+Attu,"Whole wheat flour, arhar dal, ginger, kala jeera, green chilli",vegetarian,Andhra Pradesh,₹ 83,₹ 241
+Avial,"Raw banana, elephant foot yam, long beans, tindora, urad dal",vegetarian,Kerala,₹ 64,₹ 161
+Bajri no rotlo,"Wheat flour, pearl millet flour, hot water",vegetarian,Gujarat,₹ 81,₹ 258
+Balu shahi,"Maida flour, yogurt, oil, sugar",vegetarian,West Bengal,₹ 51,₹ 165
+Bandar laddu,"Besan, jaggery, cardamom powder, ghee, cashews and raisins, jaggery syrup, sugar",vegetarian,Andhra Pradesh,₹ 95,₹ 334
+Basundi,"Sugar, milk, nuts",vegetarian,Gujarat,₹ 81,₹ 181
+Bebinca,"Coconut milk, egg yolks, clarified butter, all purpose flour",vegetarian,Goa,₹ 58,₹ 309
+Beef Fry,"Beef, coconut, garam masala, curry leaves, green chilies, chili powder",non vegetarian,Kerala,₹ 53,₹ 287
+Bengena Pitika,"Brinjal, onions, salt, sesame seeds, coriander",vegetarian,Assam,₹ 69,₹ 197
+Bhakri,"Jowar flour, sesame seeds",vegetarian,Maharashtra,₹ 72,₹ 324
+Bhatura,"Chole, rava, yogurt, plain flour, baking soda",vegetarian,Punjab,₹ 99,₹ 178
+Bhindi masala,"Ladies finger, garam masala, kasuri methi, tomatoes, chili powder",vegetarian,Punjab,₹ 82,₹ 187
+Bilahi Maas,"Potatoes, garam masala, tomatoes, mustard oil, bay leaf",non vegetarian,Assam,₹ 76,₹ 193
+Biryani,"Chicken thighs, basmati rice, star anise, sweet, green chillies",non vegetarian,Telangana,₹ 75,₹ 245
+Bisi bele bath,"Split pigeon peas, chana dal, urad dal, green peas, french beans",vegetarian,Karnataka,₹ 60,₹ 301
+Black rice,"Forbidden black rice, chicken, olive oil, slivered almonds, garlic powder",non vegetarian,Manipur,₹ 81,₹ 213
+Bombil fry,"Bombay duck, malvani masala, rice flour, bombay rava, green chilies",non vegetarian,Maharashtra,₹ 75,₹ 203
+Boondi,"Gram flour, ghee, sugar",vegetarian,Rajasthan,₹ 86,₹ 192
+Bora Sawul,"Biryani masala, mixed vegetables, yellow moong daal, whole red, mustard seeds",vegetarian,Assam,₹ 56,₹ 290
+Brown Rice,"Brown rice, soy sauce, olive oil",vegetarian,No State,₹ 76,₹ 235
+Butter chicken,"Chicken, greek yogurt, cream, garam masala powder, cashew nuts, butter",non vegetarian,NCT of Delhi,₹ 56,₹ 218
+Chak Hao Kheer,"Rice, milk, sugar, cardamom",vegetarian,Manipur,₹ 79,₹ 321
+Chakali,"Rice flour, sesame, plain flour, turmeric, red chilli",vegetarian,Maharashtra,₹ 82,₹ 306
+Cham cham,"Flour, cream, sugar, saffron, lemon juice, coconut flakes",vegetarian,West Bengal,₹ 65,₹ 215
+Chana masala,"Chickpeas, tomato paste, garam masala, ginger, red onion, avocado oil",vegetarian,Punjab,₹ 76,₹ 211
+Chapati,"Whole wheat flour, olive oil, hot water, all purpose flour",vegetarian,Maharashtra,₹ 55,₹ 189
+Cheera Doi,"Rice, mango, curd",vegetarian,West Bengal,₹ 97,₹ 304
+Chevdo,"Citric acid, fry, raisins, sugar, chana daal",vegetarian,Gujarat,₹ 99,₹ 296
+Chhena jalebi,"Chhena, sugar, ghee",vegetarian,Odisha,₹ 73,₹ 333
+Chhena kheeri,"Chhena, sugar, milk",vegetarian,Odisha,₹ 96,₹ 318
+Chhena poda,"Sugar, chenna cheese",vegetarian,Odisha,₹ 65,₹ 211
+Chicken razala,"Chicken, dahi, sesame seeds, garam masala powder, cashew nuts, saffron",non vegetarian,West Bengal,₹ 69,₹ 339
+Chicken Tikka,"Chicken, whole wheat bread, rice flour, garam masala powder, whole egg",non vegetarian,Punjab,₹ 54,₹ 295
+Chicken Tikka masala,"Naan bread, tomato sauce, skinless chicken breasts, heavy cream, garam masala",non vegetarian,Punjab,₹ 94,₹ 235
+Chicken Varuval,"Meat curry powder, chicken chunks, ginger, tomato, cinnamon",non vegetarian,Tamil Nadu,₹ 77,₹ 330
+Chikki,"Peanuts, jaggery",vegetarian,Maharashtra,₹ 58,₹ 319
+Chingri Bhape,"Coconut, prawns, curd, mustard seed, green chili",non vegetarian,West Bengal,₹ 52,₹ 188
+Chingri malai curry,"Coconut milk, lobster, fresh green chilli, ginger, red onion",non vegetarian,West Bengal,₹ 71,₹ 338
+Chole bhature,"Chole, bhatura, garam masala, bay leaf, cinnamon stick",vegetarian,Punjab,₹ 54,₹ 313
+Chorafali,"Urad dal, bengal gram flour, dried mango, baking soda, black salt",vegetarian,Gujarat,₹ 57,₹ 161
+Churma Ladoo,"Whole wheat flour, khus khus, sesame seeds, dry coconut, gur",vegetarian,Rajasthan,₹ 90,₹ 210
+Coconut vadi,"Condensed milk, mawa, desiccated coconut, almonds, cashews",vegetarian,Maharashtra,₹ 77,₹ 328
+Copra paak,"Condensed milk, nestle cream, coconut ice, red food coloring, desiccated coconut",vegetarian,Gujarat,₹ 94,₹ 349
+Currivepillai sadam,"Chana dal, urad dal, fresh coconut, sesame seeds, curry leaves",vegetarian,Tamil Nadu,₹ 59,₹ 299
+Daal baati churma,"Moong dal, masoor dal, chana dal, wheat flour, almond",vegetarian,Rajasthan,₹ 75,₹ 265
+Daal Dhokli,"Whole wheat flour, dal, kokum, gur, bengal gram flour",vegetarian,Gujarat,₹ 71,₹ 163
+Daal puri,"Moong dal, garam masala powder, garlic, green chilli, all purpose flour",vegetarian,West Bengal,₹ 55,₹ 312
+Dahi vada,"Urad dal, bhuna chana, garam masala, dates, tamarind",vegetarian,Maharashtra,₹ 86,₹ 334
+Dal makhani,"Red kidney beans, urad dal, cream, garam masala, chili powder",vegetarian,Punjab,₹ 63,₹ 297
+Dal tadka,"Pigeon peas, garam masala, ginger, red onion, kasuri methi",vegetarian,Punjab,₹ 66,₹ 339
+Dalithoy,"Arhar dal, coconut oil, curry leaves, mustard seeds, red chilli",vegetarian,Maharashtra,₹ 73,₹ 156
+Dharwad pedha,"Milk, Sugar, Dharwadi buffalo milk",vegetarian,Karnataka,₹ 50,₹ 235
+Dhokla,"Rava, coconut, gram flour, mustard, sesame",vegetarian,Gujarat,₹ 80,₹ 330
+Dhondas,"Cucumber, rava",vegetarian,Maharashtra,₹ 84,₹ 185
+Doodhpak,"Milk, rice, sugar, dry fruits",vegetarian,Gujarat,₹ 100,₹ 178
+Dosa,"Chana dal, urad dal, whole urad dal, blend rice, rock salt",vegetarian,No State,₹ 82,₹ 313
+Double ka meetha,"Loaf bread, milk",vegetarian,Telangana,₹ 91,₹ 174
+Dudhi halwa,"Bottle gourd, green, raisins, sugar, clarified butter",vegetarian,Gujarat,₹ 69,₹ 239
+Dum aloo,"Baby potatoes, garam masala, cashew nuts, kasuri methi, tomatoes",vegetarian,Jammu & Kashmir,₹ 88,₹ 288
+Fara,"Chana dal, whole wheat flour, arhar dal, white urad dal, garam masala powder",vegetarian,Chhattisgarh,₹ 79,₹ 309
+Farsi Puri,"Semolina, clarified butter, oil, white flour, black pepper",vegetarian,Gujarat,₹ 74,₹ 343
+Gajar ka halwa,"Carrots, milk, sugar, ghee, cashews, raisins",vegetarian,Punjab,₹ 95,₹ 283
+Galho,"Rice, axone, salt, water, chillies, pork",non vegetarian,Nagaland,₹ 83,₹ 305
+Gatta curry,"Yogurt, besan, sauce, garam masala powder, gram flour",vegetarian,Rajasthan,₹ 92,₹ 177
+Gavvalu,"Rice flour, sugar, salt, ghee, semolina",vegetarian,Andhra Pradesh,₹ 90,₹ 178
+Gheela Pitha,"Sticky rice, rice flour, jaggery, orange rind",vegetarian,Assam,₹ 57,₹ 270
+Ghevar,"Flour, ghee, kewra, milk, clarified butter, sugar, almonds, pistachio, saffron, green cardamom",vegetarian,Rajasthan,₹ 88,₹ 208
+Ghooghra,"Dry fruits, semolina, all purpose flour",vegetarian,Gujarat,₹ 92,₹ 268
+Goja,"Baking soda, clarified butter, oil, all purpose flour",vegetarian,West Bengal,₹ 62,₹ 300
+Gud papdi,"Wheat flour, jaggery, clarified butter, sliced almonds",vegetarian,Gujarat,₹ 55,₹ 186
+Gulab jamun,"Milk powder, plain flour, baking powder, ghee, milk, sugar, water, rose water",vegetarian,West Bengal,₹ 78,₹ 209
+Halvasan,"Whole wheat rava, chia seed, lemon, edible gum, litre milk",vegetarian,Gujarat,₹ 90,₹ 284
+Hando Guri,"Jaggery, raisins",vegetarian,Assam,₹ 87,₹ 246
+Handwo,"Bottle gourd, chana dal, cabbage, urad dal, toor dal",vegetarian,Gujarat,₹ 83,₹ 312
+Haq Maas,"Lamb, garam masala powder, curd, turmeric, bay leaf",non vegetarian,Assam,₹ 98,₹ 292
+Idiappam,"Rice flour, hot water, grated coconut",vegetarian,Tamil Nadu,₹ 91,₹ 279
+Idli,"Split urad dal, urad dal, idli rice, thick poha, rock salt",vegetarian,No State,₹ 79,₹ 176
+Imarti,"Sugar syrup, lentil flour",vegetarian,West Bengal,₹ 78,₹ 220
+Jalebi,"Maida, corn flour, baking soda, vinegar, curd, water, turmeric, saffron, cardamom",vegetarian,Uttar Pradesh,₹ 95,₹ 264
+Jeera Aloo,"Green chilies, lemon juice, chili powder, boiled potatoes",vegetarian,Gujarat,₹ 59,₹ 323
+Kaara kozhambu,"Sesame oil, drumstick, tamarind paste, sambar powder, tomato",vegetarian,Tamil Nadu,₹ 85,₹ 281
+Kabiraji,"Fish fillet, besan, lemon, mint, ginger",non vegetarian,West Bengal,₹ 61,₹ 279
+Kachori,"Moong dal, rava, garam masala, dough, fennel seeds",vegetarian,Uttar Pradesh,₹ 70,₹ 257
+Kadai paneer,"Cottage cheese, bell peppers, gravy, garam masala, cashew nuts",vegetarian,Punjab,₹ 90,₹ 218
+Kadhi pakoda,"Besan, garam masala powder, gram flour, ginger, curry leaves",vegetarian,Haryana,₹ 59,₹ 209
+Kajjikaya,"Rice flour, jaggery, coconut",vegetarian,Andhra Pradesh,₹ 96,₹ 258
+Kaju katli,"Cashews, ghee, cardamom, sugar",vegetarian,No State,₹ 98,₹ 208
+Kakinada khaja,"Wheat flour, sugar",vegetarian,Andhra Pradesh,₹ 97,₹ 281
+Kalakand,"Milk, cottage cheese, sugar",vegetarian,West Bengal,₹ 97,₹ 332
+Kanji,"Carrot, yellow mustard, red chilli, black salt",vegetarian,Kerala,₹ 50,₹ 156
+Kansar,"Wheat flour, cashews, rapeseed oil",vegetarian,Gujarat,₹ 55,₹ 169
+Karela bharta,"Bitter gourd, fennel, garam masala powder, chili powder, amchur powder",vegetarian,Punjab,₹ 96,₹ 265
+Keerai kootu,"Moong dal, chana dal, spinach, urad dal, coconut oil",vegetarian,Tamil Nadu,₹ 76,₹ 243
+Keerai masiyal,"Urad dal, curry leaves, sugar, mustard seeds, spinach",vegetarian,Tamil Nadu,₹ 93,₹ 174
+Keerai poriyal,"Amaranth leaves, split urad dal, mustard seeds, grated coconut, red chili",vegetarian,Tamil Nadu,₹ 62,₹ 165
+Keerai sadam,"Greens, tomato, mustard seeds, fenugreek seeds",vegetarian,Tamil Nadu,₹ 62,₹ 244
+Keri no ras,"Mango, sugar",vegetarian,Gujarat,₹ 69,₹ 171
+Khakhra,"Whole wheat flour, low fat, bengal gram flour",vegetarian,Gujarat,₹ 75,₹ 168
+Khaman,"Yogurt, fresh coconut, sesame seeds, semolina, gram flour",vegetarian,Gujarat,₹ 52,₹ 302
+Khandvi,"Green chili paste, white sesame seeds, gram flour, curry leaves, green chili",vegetarian,Gujarat,₹ 88,₹ 179
+Khar,"Raw papaya, panch phoran masala, nigella seeds, mustard oil, fennel seeds",vegetarian,Assam,₹ 59,₹ 279
+Kheer,"Milk, rice, sugar, dried fruits",vegetarian,No State,₹ 92,₹ 203
+Kheer sagar,"Chenna, condensed milk, sugar, saffron, cardamom",vegetarian,Odisha,₹ 80,₹ 276
+Khichdi,"Moong dal, green peas, ginger, tomato, green chili",vegetarian,No State,₹ 73,₹ 210
+Khichu,"Rice flour, sesame seeds, baking soda, peanut oil",vegetarian,Gujarat,₹ 96,₹ 268
+Khorisa,"Fermented bamboo shoot, potato, ginger, green, mustard oil",vegetarian,Assam,₹ 84,₹ 171
+Kofta,"Paneer, potato, cream, corn flour, garam masala",vegetarian,Uttar Pradesh,₹ 100,₹ 282
+Koldil Chicken,"Banana flower, chicken, green chili, mustard oil, lemon juice",non vegetarian,Assam,₹ 82,₹ 295
+Koldil Duck,"Rice flour, mutton, banana, gram flour, olive oil, baking powder",non vegetarian,Assam,₹ 74,₹ 194
+Kolim Jawla,"Baingan, fish, coconut oil, fresh coconut, ginger",non vegetarian,Maharashtra,₹ 67,₹ 292
+Kombdi vade,"Rice flour, urad dal, wheat flour, gram flour, turmeric",vegetarian,Maharashtra,₹ 82,₹ 205
+Konir Dom,"Aloo, tomatoes, mustard oil, bay leaf, cinnamon stick",non vegetarian,Assam,₹ 63,₹ 246
+Kootu,"Chana dal, urad dal, potato, beans, peas",vegetarian,Tamil Nadu,₹ 56,₹ 336
+Kos kootu,"Moong dal, chana dal, cabbage, tamarind, curry leaves",vegetarian,Tamil Nadu,₹ 68,₹ 218
+Koshambri,"Moong dal, cucumber, curry leaves, green chili, lemon juice",vegetarian,Karnataka,₹ 100,₹ 346
+Koshimbir,"Cucumber, carrot, tomatoes, cilantro",vegetarian,Maharashtra,₹ 85,₹ 235
+Kothamali sadam,"Chana dal, urad dal, gooseberry, raw rice, curry leaves",vegetarian,Tamil Nadu,₹ 94,₹ 305
+Kulfi falooda,"Rose syrup, falooda sev, mixed nuts, saffron, sugar",vegetarian,No State,₹ 56,₹ 216
+Kumol Sawul,"Rice, eggs, carrot, beetroot",non vegetarian,Assam,₹ 94,₹ 237
+Kutchi dabeli,"Pav, aloo, peanut, pomegranate, star anise",vegetarian,Gujarat,₹ 62,₹ 350
+Kuzhakkattai,"Sesame oil, raw rice, jaggery, grated coconut",vegetarian,Tamil Nadu,₹ 90,₹ 173
+Kuzhambu,"Pearl onions, urad dal, drumsticks, tomato, curry leaves",vegetarian,Tamil Nadu,₹ 95,₹ 165
+Kuzhi paniyaram,"Black lentils, rice",vegetarian,Kerala,₹ 87,₹ 291
+Laapsi,"Cinnamon, jaggery, clarified butter, dry roasted",vegetarian,Madhya Pradesh,₹ 85,₹ 327
+Laddu,"Gram flour, ghee, sugar",vegetarian,No State,₹ 61,₹ 322
+Lassi,"Yogurt, milk, nuts, sugar",vegetarian,Punjab,₹ 57,₹ 322
+Lauki ke kofte,"Bottle gourd, garam masala powder, gram flour, ginger, chillies",vegetarian,Uttar Pradesh,₹ 90,₹ 292
+Lauki ki subji,"Bottle gourd, coconut oil, garam masala, ginger, green chillies",vegetarian,No State,₹ 59,₹ 204
+Ledikeni,"Chhena, sugar, ghee",vegetarian,West Bengal,₹ 93,₹ 152
+Lilva Kachori,"Green garlic chutney, fresh green peas, ginger, lemon juice, plain flour",vegetarian,Gujarat,₹ 91,₹ 254
+Litti chokha,"Wheat flour, roasted gram flour, tomato, nigella seeds, chilli",vegetarian,Bihar,₹ 64,₹ 244
+Luchi,"Maida, vegetable oil",vegetarian,West Bengal,₹ 91,₹ 260
+Lyangcha,"Flour, fried milk power, sugar syrup",vegetarian,Assam,₹ 74,₹ 249
+Maach Jhol,"Fish, potol, tomato, chillies, ginger, garlic",non vegetarian,Assam,₹ 69,₹ 250
+Mag Dhokli,"Moong beans, jaggery, red chillies, oil, salt",vegetarian,Gujarat,₹ 57,₹ 311
+Mahim halwa,"Semolina, sugar",vegetarian,Maharashtra,₹ 93,₹ 179
+Makki di roti sarson da saag,"Palak, makki atta, mustard green, garam masala, ginger",vegetarian,Punjab,₹ 63,₹ 293
+Malapua,"Yoghurt, refined flour, ghee, fennel seeds",vegetarian,Bihar,₹ 82,₹ 327
+Masala Dosa,"Chana dal, urad dal, potatoes, idli rice, thick poha",vegetarian,No State,₹ 97,₹ 303
+Masor Koni,"Fish roe, pumpkin flowers, mustard oil, turmeric, tomato",non vegetarian,Assam,₹ 71,₹ 270
+Masor tenga,"Ridge gourd, fish, lemon, tomatoes, mustard oil",non vegetarian,Assam,₹ 72,₹ 349
+Mawa Bati,"Milk powder, dry fruits, arrowroot powder, all purpose flour",vegetarian,Madhya Pradesh,₹ 93,₹ 262
+Methi na Gota,"Rava, gram flour, lemon juice, turmeric, fenugreek leaves",vegetarian,Gujarat,₹ 70,₹ 252
+Mihidana,"Besan flour, sugar, ghee",vegetarian,West Bengal,₹ 82,₹ 345
+Mishti Chholar Dal,"Chana dal, fresh coconut, ginger, cinnamon, raisins",vegetarian,West Bengal,₹ 69,₹ 252
+Misi roti,"Whole wheat flour, chickpea flour, green chilies",vegetarian,Punjab,₹ 97,₹ 231
+Misti doi,"Milk, jaggery",vegetarian,West Bengal,₹ 99,₹ 254
+Modak,"Rice flour, coconut, jaggery",vegetarian,Maharashtra,₹ 62,₹ 196
+Mohanthal,"Rose water, pistachio, badam, bengal gram flour, saffron",vegetarian,Gujarat,₹ 90,₹ 176
+Mushroom do pyaza,"Mushroom, malai, garam masala, ginger, capsicum",vegetarian,Punjab,₹ 59,₹ 165
+Mushroom matar,"Canned coconut milk, frozen green peas, wild mushrooms, garam masala, tomatoes",vegetarian,Punjab,₹ 56,₹ 168
+Muthiya,"Bottle gourd, whole wheat flour, rava, sesame seeds, bengal gram flour",vegetarian,Gujarat,₹ 92,₹ 166
+Mysore pak,"Besan flour, semolina, mung bean, jaggery, coconut, skimmed milk powder, sugar, ghee",vegetarian,Karnataka,₹ 97,₹ 195
+Naan,"Whole wheat flour, honey, butter, garlic",vegetarian,Punjab,₹ 95,₹ 175
+Namakpara,"Wheat flour, baking soda, all purpose flour, black pepper, sunflower oil",vegetarian,Gujarat,₹ 69,₹ 338
+Nankhatai,"Refined flour, besan, ghee, powdered sugar, yoghurt, green cardamom",vegetarian,No State,₹ 55,₹ 292
+Navrattan korma,"Green beans, potatoes, khus khus, low fat, garam masala powder",vegetarian,Uttar Pradesh,₹ 74,₹ 232
+Obbattu holige,"Maida flour, turmeric, coconut, chickpeas, jaggery, ghee, cardamom",vegetarian,Karnataka,₹ 93,₹ 298
+Pachadi,"Coconut oil, cucumber, curd, curry leaves, mustard seeds",vegetarian,No State,₹ 80,₹ 206
+Pakhala,"Curd, cooked rice, curry leaves, dry chilli",vegetarian,Odisha,₹ 95,₹ 268
+Palak paneer,"Cottage cheese, palak, cream, garam masala, butter",vegetarian,Punjab,₹ 55,₹ 273
+Palathalikalu,"Rice flour, milk",vegetarian,Andhra Pradesh,₹ 56,₹ 348
+Paneer butter masala,"Paneer, whipping cream, garam masala, cashew nuts, butter",vegetarian,Punjab,₹ 60,₹ 247
+Paneer tikka masala,"Paneer, greek yogurt, tandoori masala, cream, bell pepper",vegetarian,Punjab,₹ 98,₹ 281
+Pani Pitha,"Tea leaves, white sesame seeds, dry coconut, soaked rice",vegetarian,Assam,₹ 97,₹ 252
+Pani puri,"Kala chana, mashed potato, boondi, sev, lemon",vegetarian,No State,₹ 71,₹ 159
+Paniyaram,"Yogurt, ginger, curry leaves, baking soda, green chilli",vegetarian,Tamil Nadu,₹ 62,₹ 324
+Panjeeri,"Whole wheat flour, musk melon seeds, poppy seeds, edible gum, semolina",vegetarian,Uttar Pradesh,₹ 98,₹ 306
+Pantua,"Chhena, sugar, ghee, flour",vegetarian,West Bengal,₹ 57,₹ 243
+Papad,"Urad dal, sev, lemon juice, chopped tomatoes",vegetarian,No State,₹ 59,₹ 228
+Papadum,"Lentils, black pepper, vegetable oil",vegetarian,Kerala,₹ 50,₹ 315
+Paratha,"Wheat flour, butter, potato, coriander",vegetarian,Punjab,₹ 95,₹ 235
+Paravannam,"Raw rice,  jaggery, milk",vegetarian,Kerala,₹ 88,₹ 332
+Paruppu sadam,"Arhar dal, sambar powder, tomato, curry leaves, fennel seeds",vegetarian,Tamil Nadu,₹ 59,₹ 177
+Patra,"Arbi ke patte, sesame seeds, gur, bengal gram flour, imli",vegetarian,Gujarat,₹ 65,₹ 246
+Pattor,"Arbi ke patte, sesame seeds, gur, bengal gram flour, imli",vegetarian,Rajasthan,₹ 100,₹ 273
+Pav Bhaji,"Pav bhaji masala, gobi, potatoes, green peas, dinner rolls",vegetarian,Maharashtra,₹ 68,₹ 206
+Payasam,"Rice, cashew nuts, milk, raisins, sugar",vegetarian,No State,₹ 66,₹ 216
+Payokh,"Basmati rice, rose water, sugar, clarified butter, cardamom pods",vegetarian,Assam,₹ 94,₹ 153
+Pesarattu,"Green moong beans, rice flour",vegetarian,Andhra Pradesh,₹ 95,₹ 347
+Petha,"Firm white pumpkin, sugar, kitchen lime, alum powder",vegetarian,Uttar Pradesh,₹ 59,₹ 190
+Phirni,"Rice, sugar, nuts",vegetarian,Odisha,₹ 84,₹ 256
+Pinaca,"Brown rice, fennel seeds, grated coconut, black pepper, ginger powder",vegetarian,Goa,₹ 97,₹ 317
+Pindi chana,"Fennel, tea bags, tomato, kasuri methi, cinnamon",vegetarian,Punjab,₹ 82,₹ 330
+Pithe,"Rice flour, wheat flour",vegetarian,Assam,₹ 77,₹ 332
+Poha,"Beaten rice flakes, potato, curry leaves, green chilies, lemon juice",vegetarian,Maharashtra,₹ 94,₹ 230
+Pongal,"Rice, jaggery, cashews, ghee",vegetarian,Tamil Nadu,₹ 97,₹ 196
+Poornalu,"Chana dal, jaggery",vegetarian,Andhra Pradesh,₹ 58,₹ 168
+Pootharekulu,"Rice flour, powdered sugar, ghee",vegetarian,Andhra Pradesh,₹ 91,₹ 332
+Poriyal,"Chana dal, urad dal, beans, coconut, mustard",vegetarian,Tamil Nadu,₹ 53,₹ 180
+Pork Bharta,"Boiled pork, onions, chillies, ginger and garlic",non vegetarian,Tripura,₹ 56,₹ 278
+Prawn malai curry,"Coconut milk, prawns, garlic, turmeric, sugar",non vegetarian,West Bengal,₹ 82,₹ 296
+Puli sadam,"Urad dal, lemon, tamarind, cooked rice, curry leaves",vegetarian,Tamil Nadu,₹ 64,₹ 258
+Puri Bhaji,"Aloo, urad dal, mustard, ginger, curry leaves",vegetarian,Maharashtra,₹ 69,₹ 184
+Puttu,"Brown rice flour, sugar, grated coconut",vegetarian,Kerala,₹ 95,₹ 206
+Qubani ka meetha,"Apricots, sugar syrup",vegetarian,Telangana,₹ 64,₹ 222
+Rabri,"Condensed milk, sugar, spices, nuts",vegetarian,Uttar Pradesh,₹ 55,₹ 177
+Rajma chaval,"Red kidney beans, garam masala powder, ginger, tomato, mustard oil",vegetarian,No State,₹ 60,₹ 269
+Ras malai,"Chhena, reduced milk, pistachio",vegetarian,West Bengal,₹ 58,₹ 275
+Rasabali,"Chenna, sweetened milk",vegetarian,Odisha,₹ 77,₹ 232
+Rasam,"Tomato, curry leaves, garlic, mustard seeds, hot water",vegetarian,No State,₹ 57,₹ 331
+Rasgulla,"Chhena, sugar, cardamom",vegetarian,West Bengal,₹ 86,₹ 301
+Red Rice,"Red pepper, red onion, butter, watercress, olive oil",vegetarian,No State,₹ 91,₹ 217
+Rongi,"Garam masala powder, tomato, kasuri methi, cinnamon, mustard oil",vegetarian,Punjab,₹ 92,₹ 254
+Saath,"Urad dal, potatoes, wheat flour, sooji",vegetarian,Gujarat,₹ 75,₹ 214
+Sabudana Khichadi,"Raw peanuts, sabudana, lemon, avocado oil, curry leaves, green chili",vegetarian,Maharashtra,₹ 95,₹ 268
+Sambar,"Pigeon peas, eggplant, drumsticks, sambar powder, tamarind",vegetarian,No State,₹ 78,₹ 296
+Samosa,"Potatoes, green peas, garam masala, ginger, dough",vegetarian,No State,₹ 53,₹ 305
+Sandesh,"Milk, sugar, saffron, cardamom",vegetarian,West Bengal,₹ 61,₹ 227
+Sandige,"Thin rice flakes, black sesame seeds, curry leaves",vegetarian,Karnataka,₹ 54,₹ 216
+Sattu ki roti,"Sattu, atta, dough, filling, mustard oil",vegetarian,Bihar,₹ 83,₹ 322
+Sev khamani,"Khaman, pomegranate, sev, powdered sugar, garlic",vegetarian,Gujarat,₹ 71,₹ 266
+Sev tameta,"Sev, ginger, tomato, sugar",vegetarian,Gujarat,₹ 98,₹ 334
+Sevai,"Sevai, parboiled rice, steamer",vegetarian,No State,₹ 89,₹ 233
+Shahi paneer,"Cottage cheese, malai, garam masala, ginger, tomato",vegetarian,Punjab,₹ 59,₹ 173
+Shahi tukra,"Rose water, milk, white bread slices, saffron, almonds",vegetarian,Telangana,₹ 87,₹ 263
+Shankarpali,"Sugar, ghee, maida flour, semolina",vegetarian,Maharashtra,₹ 89,₹ 255
+Sheer korma,"Vermicelli pudding, milk",vegetarian,Telangana,₹ 70,₹ 151
+Sheera,"Semolina, ghee, nuts, milk",vegetarian,Maharashtra,₹ 78,₹ 273
+Shrikhand,"Curd, sugar, saffron, cardamom",vegetarian,Maharashtra,₹ 99,₹ 257
+Shufta,"Cottage cheese, dry dates, dried rose petals, pistachio, badam",vegetarian,Jammu & Kashmir,₹ 66,₹ 288
+Shukto,"Green beans, bitter gourd, ridge gourd, banana, brinjal",vegetarian,West Bengal,₹ 98,₹ 207
+Singori,"Khoa, coconut, molu leaf",vegetarian,Uttarakhand,₹ 81,₹ 333
+Sohan halwa,"Corn flour, ghee, dry fruits",vegetarian,Uttar Pradesh,₹ 59,₹ 286
+Sohan papdi,"Gram flour, ghee, sugar, milk, cardamom",vegetarian,Maharashtra,₹ 72,₹ 220
+Sukhdi,"Whole wheat flour, gur, clarified butter",vegetarian,Maharashtra,₹ 100,₹ 240
+Surnoli,"Rice flakes, yogurt, raw rice, jaggery, grated coconut",vegetarian,Maharashtra,₹ 91,₹ 160
+Sutar feni,"Maida, sugar, ghee",vegetarian,Maharashtra,₹ 100,₹ 266
+Tandoori Chicken,"Greek yogurt, garam masala, kasuri methi, marinade, mustard oil",non vegetarian,Punjab,₹ 57,₹ 334
+Tandoori Fish Tikka,"Chickpea flour, biryani masala powder, yogurt, fish fillets, green bell pepper",non vegetarian,Punjab,₹ 58,₹ 264
+Thalipeeth,"Whole wheat flour, rice flour, pearl millet flour, sorghum flour, sesame seeds",vegetarian,Maharashtra,₹ 72,₹ 281
+Thayir sadam,"Urad dal, curd, sesame oil, ginger, curry leaves, mustard seeds",vegetarian,Tamil Nadu,₹ 85,₹ 161
+Theeyal,"Coconut, whole red beans, masala, sesame oil, tamarind",vegetarian,Kerala,₹ 63,₹ 213
+Thepla,"Chickpea flour, methi leaves, jowar flour, wheat flour",vegetarian,Gujarat,₹ 51,₹ 260
+Til Pitha,"Glutinous rice, black sesame seeds, gur",vegetarian,Assam,₹ 83,₹ 162
+Turiya Patra Vatana sabji,"Ridge gourd, baking soda, sugar, grated coconut, peas",vegetarian,Gujarat,₹ 84,₹ 169
+Undhiyu,"Sweet potato, surti papdi, baby potatoes, valor papdi, green peas",vegetarian,Gujarat,₹ 97,₹ 185
+Unni Appam,"Rice flour, banana, jaggery, coconut",vegetarian,Tamil Nadu,₹ 90,₹ 201
+Upma,"Chana dal, urad dal, ginger, curry leaves, sugar",vegetarian,No State,₹ 50,₹ 336
+Uttapam,"Chana dal, urad dal, thick poha, tomato, butter",vegetarian,No State,₹ 97,₹ 333
+Vada,"Urad dal, ginger, curry leaves, green chilies, black pepper",vegetarian,No State,₹ 80,₹ 188
+Veg Kolhapuri,"Gobi, potato, beans, khus khus, coconut",vegetarian,Maharashtra,₹ 62,₹ 156
+Vegetable jalfrezi,"Baby corn, french beans, garam masala, ginger, carrot",vegetarian,Punjab,₹ 85,₹ 217
+Vindaloo,"Chicken, coconut oil, wine vinegar, ginger, green, cinnamon",non vegetarian,Goa,₹ 59,₹ 246
+Zunka,"Gram flour, mustard, garlic, turmeric, red chilli",vegetarian,Maharashtra,₹ 87,₹ 324
